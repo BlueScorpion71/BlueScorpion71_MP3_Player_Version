@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
-  "changelog": "",
+  "version": "2.0",
+  "changelog": "Version 2.0: Installation and uninstallation workflow fixed and tested. The player now closes cleanly during uninstall, and the uninstaller continues correctly. User data deletion remains optional.",
   "download_url": "https://1drv.ms/f/c/87f2467fda4f21d3/IgD-nN8iRBFRQYDLrBDCf3E0Adqc3hUnbfa8xHIIUTF5nqQ?e=Ci4tiV"
 }
